@@ -32,7 +32,7 @@ Joined Github **1** year ago.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/2323eb6c28ad9ad20a01dd81d9d20b35d43587ed/topics/stata/stata.png" alt="stata"></code>
+<code><img height="29" src="https://raw.githubusercontent.com/github/explore/2323eb6c28ad9ad20a01dd81d9d20b35d43587ed/topics/stata/stata.png" alt="stata"></code>
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
