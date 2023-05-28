@@ -30,10 +30,10 @@ Joined Github **1** year ago.
 <code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009443-7e90af7a-7713-4898-9fcf-0a34cfb427a7.png" alt="word"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/81b1ea16f4f9b24ee552ff3d2d54f0ed7745e20a/SVG/Power-BI.svg" alt="powerbi"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras"></code>
-
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/2323eb6c28ad9ad20a01dd81d9d20b35d43587ed/topics/stata/stata.png
+" alt="Stata"></code>
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
