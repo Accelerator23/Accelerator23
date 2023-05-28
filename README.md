@@ -1,7 +1,7 @@
 ## Salutations 👋, I'm [Junze Shen](https://github.com/Accelerator23)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://linkedin.com/in/iampavangandhi](https://www.linkedin.com/in/junze-shen-9b6459172/))
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/acceleraror23/)
 ### Thank you very much to reach out to my profile :)
 
 Currently studying MSc in Finance 🎓 in IE Business School 🏛. I'm a passionate learner who's always willing to learn about finance and data science💡. I love to explore various machine learning and deep learning algorithms and leverage them to solve real-life issues in the field of Finance ✨. 🏻‍💻. I'm currently into Financial Analyst 🕸️ and working on data science and financial modeling 🤓.
