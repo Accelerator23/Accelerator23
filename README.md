@@ -23,7 +23,7 @@ Joined Github **1** year ago.
 - 📰 &nbsp; Learning and perfomaing Guitars for over 8 years with near professional skills.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-### Languages and Tools:
+### Programming Languages and Tools:
 
 <code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009455-1e9dc22b-c157-4cfb-83cd-7bce02393a1f.png" alt="ppt"></code>
 <code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009460-309ba7ea-b7dc-4c37-b419-31dd1a52ef62.png" alt="excel"></code>
