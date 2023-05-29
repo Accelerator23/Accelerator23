@@ -10,7 +10,7 @@ Joined Github **1** year ago.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Excel, Power BI, <br /> Python, Matlab, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Excel, Power BI, Python, Matlab, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning and digging AI application in Finance.
 - 👨🏻‍💻 &nbsp; The most recent RNN project can be found [here](https://github.com/Accelerator23/RNN-Project/blob/main/IE%20MIF%20Final%20Paper%20(Shen%2C%20Wu).pdf).
 - 👾 &nbsp; Fun fact: Dreaming of using data to explain and argue social issues.
