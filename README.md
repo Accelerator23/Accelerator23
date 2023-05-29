@@ -14,7 +14,7 @@ Joined Github **1** year ago.
 - 🚀 &nbsp; I’m currently learning and digging AI application in Finance.
 - 👨🏻‍💻 &nbsp; The most recent RNN project can be found [here](https://github.com/Accelerator23/RNN-Project/blob/main/IE%20MIF%20Final%20Paper%20(Shen%2C%20Wu).pdf).
 - 👾 &nbsp; Fun fact: Dreaming of using data to explain and argue social issues.
-- 📫 &nbsp; How to reach me: accelerator233@gmail.com (personal) or junze.shen@student.ie.edu (education).
+- 📧 &nbsp; How to reach me: accelerator233@gmail.com (personal) or junze.shen@student.ie.edu (education).
 <!--- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).-->
 
 ### My Absolute Favorites:
