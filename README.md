@@ -25,9 +25,9 @@ Joined Github **1** year ago.
 
 ### Programming Languages and Tools:
 
-<code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009455-1e9dc22b-c157-4cfb-83cd-7bce02393a1f.png" alt="ppt"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009460-309ba7ea-b7dc-4c37-b419-31dd1a52ef62.png" alt="excel"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/54350573/143009443-7e90af7a-7713-4898-9fcf-0a34cfb427a7.png" alt="word"></code>
+<code><img height="28" src="https://user-images.githubusercontent.com/54350573/143009455-1e9dc22b-c157-4cfb-83cd-7bce02393a1f.png" alt="ppt"></code>
+<code><img height="28" src="https://user-images.githubusercontent.com/54350573/143009460-309ba7ea-b7dc-4c37-b419-31dd1a52ef62.png" alt="excel"></code>
+<code><img height="28" src="https://user-images.githubusercontent.com/54350573/143009443-7e90af7a-7713-4898-9fcf-0a34cfb427a7.png" alt="word"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/81b1ea16f4f9b24ee552ff3d2d54f0ed7745e20a/SVG/Power-BI.svg" alt="powerbi"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="keras"></code>
