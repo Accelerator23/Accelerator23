@@ -21,7 +21,7 @@ Joined Github **1** year ago.
 
 - 💻 &nbsp; I love exploring new algorithm applications in finance.
 - 📰 &nbsp; Learning and perfomaing Guitars for over 8 years with near professional skills.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+<!---- 🍕 &nbsp; Hackathons, meetups & tech events.--->
 
 ### Programming Languages and Tools:
 
